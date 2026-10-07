@@ -7,7 +7,7 @@
 
 # about.me.at
 
-About Trevor McDougald: the background, skills, and journey of a full-stack software engineer.
+About me: my background, skills, and journey as a full-stack software engineer.
 
 about.me.at is a single-page site. It holds the parts a resume flattens out: how I got into software, where the years went, the tools I reach for, and how to find me elsewhere. It is deliberately the smallest shape in the family: one page, authored inline, with no content pipeline and no client-side fetching.
 
@@ -31,7 +31,7 @@ about.me.at is a single-page site. It holds the parts a resume flattens out: how
 
 ## Part of the me.at family
 
-about.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+about.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
