@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="281" viewBox="0 0 880 281" role="img" aria-label="about.me.at at a glance: One page, prerendered, Toolbox by job, Identity you can verify, Calm by default">
+<rect x="0.5" y="0.5" width="879" height="280" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">One page,</tspan><tspan x="44" dy="22">prerendered</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Story, work history,</tspan><tspan x="44" dy="21">toolbox and links,</tspan><tspan x="44" dy="21">authored inline and</tspan><tspan x="44" dy="21">served as static</tspan><tspan x="44" dy="21">HTML.</tspan></text>
+<rect x="236" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Toolbox by job</tspan></text>
+<text x="256" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Tools grouped into</tspan><tspan x="256" dy="21">labelled columns by</tspan><tspan x="256" dy="21">what they are for,</tspan><tspan x="256" dy="21">with my primary stack</tspan><tspan x="256" dy="21">emphasized.</tspan></text>
+<rect x="448" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Identity you</tspan><tspan x="468" dy="22">can verify</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">AboutPage JSON-LD, an</tspan><tspan x="468" dy="21">IndieWeb h-card, and</tspan><tspan x="468" dy="21">allowlisted profile</tspan><tspan x="468" dy="21">links published as</tspan><tspan x="468" dy="21">rel=me.</tspan></text>
+<rect x="660" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">Calm by default</tspan></text>
+<text x="680" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">CSS-only motion that</tspan><tspan x="680" dy="21">stops under reduced</tspan><tspan x="680" dy="21">motion, in grayscale,</tspan><tspan x="680" dy="21">with light and dark</tspan><tspan x="680" dy="21">themes.</tspan></text>
+</svg>
