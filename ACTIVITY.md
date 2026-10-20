@@ -4,13 +4,13 @@ I build About in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 6 | 14 |
+| 2026-10-19 | 7 | 15 |
 | 2026-10-12 | 5 | 10 |
 | 2026-10-05 | 4 | 28 |
 | 2026-09-28 | 12 | 93 |
